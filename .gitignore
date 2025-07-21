@@ -1,0 +1,5 @@
+# Sadece frontend ve backend klasörlerini dahil et
+/*
+!.gitignore
+!frontend/
+!backend/
